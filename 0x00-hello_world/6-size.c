@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * main-entry
+ * sizeof-size
  * Return:0 when ended success
  */
 int main(void)
