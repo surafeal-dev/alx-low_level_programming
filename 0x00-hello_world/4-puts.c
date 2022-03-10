@@ -2,7 +2,7 @@
 /**
  * main- prints using puts function
  */
-main(void)
+int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
 }
