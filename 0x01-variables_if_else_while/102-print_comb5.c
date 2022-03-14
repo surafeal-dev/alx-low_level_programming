@@ -5,14 +5,14 @@
  *
  * Return: 0 on success
  */
-int main()
+int main(void)
 {
     int d;
     int c;
     int a;
     int b;
     
-    for (d = '0'; d <= '9'; d++)
+for (d = '0'; d <= '9'; d++)
     {
         for (c = '0'; c <= '8'; c++)
         {
